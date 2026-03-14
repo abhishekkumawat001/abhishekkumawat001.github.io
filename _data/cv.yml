@@ -1,50 +1,52 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Abhishek kumawat
+  label: AI Scientist
+  email: abhikumawat001@gmail.com
+  location: bengaluru , India
+  phone: +91 8003695559
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: "AI Scientist experienced in developing innovative machine learning models. Skilled in Python, TensorFlow, and PyTorch. Passionate about using AI to solve real-world problems and improve people's lives."
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Mail
+      username: AbhishekKumawat
     - network: GitHub
-      username: example
+      username: abhishekkumawat001
     - network: LinkedIn
-      username: example
+      username: abhishekkumawat001
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: RN 409 Aryabhatta Hostel, IISC BENGALURU
+    city: Bengaluru
+    region: Karnataka
+    postalCode: 560012
+    countryCode: IN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Indian Institute of Science
+        location: Bengaluru, Karnataka, India
+        url: https://www.iisc.ac.in/
+        area: Climate Change and Sustainability
+        studyType: M.Tech
+        start_date: 2024
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Climate Change, Thermodynamics, Environmental Science, natural language processing, machine learning, deep learning, data science."
         highlights:
-          - Description 1.
-          - Description 2.
+          - Applied statistical learning, optimization, and unsupervised learning techniques (SVM, K-Means, GMM, PCA, SMOTE) to solve classification, clustering, and anomaly detection problems across multiple datasets.
+          - Implemented machine learning and deep learning models across NLP, computer vision, and recommendation systems using PyTorch, scikit-learn, and Hugging Face, including RNN, LSTM, CNN, U-Net, and Transformer architectures.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: M.L.V textile and engineering college, Bhilwara
+        location: Bhilwara, Rajasthan, India
+        area: Mechanical Engineering
+        studyType: Full time B.Tech
+        start_date: 2015
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - Attended technical conferences and workshops on CAD and ANSYS, gaining exposure to engineering simulation, material processing techniques, and industrial design workflows.
+          -  During internship and academic training, developed understanding of material properties, manufacturing processes, and supply chain management practices used in industry.
+           
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
@@ -96,65 +98,66 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Inspire Award for Science 
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "govt of Rajasthan"
+        date: false
+        awarder: "govt of rajasthan"
+        url: false
+        summary: i got the price money for my performance in 8th board exam.
 
-      - title: Max Planck Medal
+      - title: laptops for excellence in academics
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "govt. of india"
+        date: "2012"
+        awarder: Govt. of India
+        summary: Awarded for outstanding achievement in field of Science 
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+    Publications: false
+      - title: 
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - 
+        publisher: 
+        releaseDate: 
+        url: 
+        summary: 
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: 
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - 
+        publisher: 
+        releaseDate: 
+        url: 
+        summary: 
+
+      - title: 
+        authors:
+          - 
+        publisher: 
+        releaseDate: 
+        url: 
+        summary: 
 
     Skills:
-      - name: Physics
+      - name: python
         level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        icon: false
+        keywords: "Computing, Information Technology, Communication, machine-learning, deep-learning, AI, data-science, natural-language-processing, computer-vision"
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
+    Interests: false
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
+    Certificates:false
       - name: Machine Learning
         date: 2018-01-01
         issuer: Stanford University

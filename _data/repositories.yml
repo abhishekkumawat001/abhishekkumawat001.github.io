@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abhishekkumawat001
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - abhishekkumawat001/abhishek-kumawat.github.io
+  - abhishekkumawat001/CVs_for_ball
+  - abhishekkumawat001/TensorTonic-Solutions
+  - abhishekkumawat001/nlp_Assignments
+  - abhishekkumawat001/maintenance.agentic.ai 
