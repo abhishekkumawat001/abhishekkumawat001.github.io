@@ -35,7 +35,7 @@ Previously, I worked as:
 
 - **Event Manager** - where I handled event planning, vendor coordination, logistics, and client communication while managing operations under tight deadlines.
 - **internship** - Collected, cleaned, and analyzed operational mining data,
-Performed basic GIS and Excel-based analysis to map mine sections and assist in operational reporting and performance evaluation.
+  Performed basic GIS and Excel-based analysis to map mine sections and assist in operational reporting and performance evaluation.
 
 I earned my **Bachelor of Technology in Mechanical Engineering in 2020**, and later transitioned into **machine learning and data science** to pursue my interest in solving complex problems using **data** and **AI**.
 
