@@ -2,20 +2,20 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: my repos and username is edit 
+description: my repos and username is edit
 nav: true
 nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}
 
-
 ### Leetcode stats
+
 ![Leetcode stats]()
 
 ### GeekForGeeks
-![GeekforGeeks stats]()
 
+![GeekforGeeks stats]()
 
 ## GitHub users
 
