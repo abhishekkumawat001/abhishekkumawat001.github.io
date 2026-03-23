@@ -1,9 +1,12 @@
-"AJP": false
+# Venue abbreviations and styling
+# Format: abbreviation -> url and color
+
+AJP:
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"PhysRev": false
+PhysRev:
   url: https://journals.aps.org/
 
-"Vision": false
+Vision:
   color: "#009f36"

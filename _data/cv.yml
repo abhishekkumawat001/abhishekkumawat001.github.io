@@ -1,149 +1,98 @@
 cv:
-  name: Abhishek kumawat
+  name: Abhishek Kumawat
   label: AI Scientist
   email: abhikumawat001@gmail.com
-  location: bengaluru , India
-  phone: +91 8003695559
+  location: Bengaluru, India
+  phone: "+91 8003695559"
   image: ""
-  summary: "AI Scientist experienced in developing innovative machine learning models. Skilled in Python, TensorFlow, and PyTorch. Passionate about using AI to solve real-world problems and improve people's lives."
+  summary: "M.Tech student at IISc Bangalore specializing in Earth and Climate Sciences with a focus on Machine Learning, Natural Language Processing, and data-driven analysis. Passionate about Building Agents, GPU Optimization Kernels, and Post-Training Large Language Models."
 
   social_networks:
     - network: Mail
-      username: AbhishekKumawat
+      username: abhikumawat001@gmail.com
     - network: GitHub
       username: abhishekkumawat001
     - network: LinkedIn
       username: abhishekkumawat001
 
   address:
-    street: RN 409 Aryabhatta Hostel, IISC BENGALURU
+    street: RN 409 Aryabhatta Hostel, IISC Bengaluru
     city: Bengaluru
     region: Karnataka
-    postalCode: 560012
+    postalCode: "560012"
     countryCode: IN
 
   sections:
     Education:
-      - institution: Indian Institute of Science
+      - institution: Indian Institute of Science (IISc)
         location: Bengaluru, Karnataka, India
         url: https://www.iisc.ac.in/
-        area: Climate Change and Sustainability
+        area: Earth and Climate Sciences
         studyType: M.Tech
         start_date: 2024
         end_date: 2026
         score: ""
-        courses: "Climate Change, Thermodynamics, Environmental Science, natural language processing, machine learning, deep learning, data science."
+        courses: "Machine Learning, Natural Language Processing, Deep Learning, Data Science, Climate Change"
         highlights:
           - Applied statistical learning, optimization, and unsupervised learning techniques (SVM, K-Means, GMM, PCA, SMOTE) to solve classification, clustering, and anomaly detection problems across multiple datasets.
           - Implemented machine learning and deep learning models across NLP, computer vision, and recommendation systems using PyTorch, scikit-learn, and Hugging Face, including RNN, LSTM, CNN, U-Net, and Transformer architectures.
 
-      - institution: M.L.V textile and engineering college, Bhilwara
+      - institution: M.L.V Textile and Engineering College
         location: Bhilwara, Rajasthan, India
         area: Mechanical Engineering
-        studyType: Full time B.Tech
+        studyType: B.Tech
         start_date: 2015
         end_date: 2020
         highlights:
           - Attended technical conferences and workshops on CAD and ANSYS, gaining exposure to engineering simulation, material processing techniques, and industrial design workflows.
-          -  During internship and academic training, developed understanding of material properties, manufacturing processes, and supply chain management practices used in industry.
-           
+          - During internship and academic training, developed understanding of material properties, manufacturing processes, and supply chain management practices used in industry.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Event Management Company
+        position: Event Manager
+        location: India
+        start_date: 2021
+        end_date: 2023
+        summary: Handled event planning, vendor coordination, logistics, and client communication while managing operations under tight deadlines.
         highlights:
-          - Relativity
-          - Description 2.
+          - Event planning and execution
+          - Vendor coordination and logistics management
+          - Client communication and relationship management
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Mining Industry
+        position: Data Analyst Intern
+        location: India
+        start_date: 2018
+        end_date: 2018
+        summary: Collected, cleaned, and analyzed operational mining data. Performed GIS and Excel-based analysis for operational reporting.
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Data collection and cleaning of mining operations data
+          - GIS-based mapping of mine sections
+          - Performance evaluation and operational reporting
 
     Awards:
-      - title: Inspire Award for Science 
-        authors:
-          - "govt of Rajasthan"
-        date: false
-        awarder: "govt of rajasthan"
-        url: false
-        summary: i got the price money for my performance in 8th board exam.
+      - title: Inspire Award for Science
+        date: ""
+        awarder: Government of Rajasthan
+        summary: Received prize money for outstanding performance in 8th board examination.
 
-      - title: laptops for excellence in academics
-        authors:
-          - "govt. of india"
+      - title: Laptop for Excellence in Academics
         date: "2012"
-        awarder: Govt. of India
-        summary: Awarded for outstanding achievement in field of Science 
-
-    Publications: false
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url: 
-        summary: 
-
-
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url: 
-        summary: 
-
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url: 
-        summary: 
+        awarder: Government of India
+        summary: Awarded for outstanding achievement in field of Science
 
     Skills:
-      - name: python
+      - name: Python
         level: Master
-        icon: false
-        keywords: "Computing, Information Technology, Communication, machine-learning, deep-learning, AI, data-science, natural-language-processing, computer-vision"
+        keywords: "Machine Learning, Deep Learning, AI, Data Science, NLP, Computer Vision"
+
+      - name: Machine Learning
+        level: Advanced
+        keywords: "PyTorch, TensorFlow, scikit-learn, Hugging Face, Neural Networks"
+
+      - name: Data Science
+        level: Advanced
+        keywords: "Pandas, NumPy, Data Visualization, Statistical Analysis"
 
     Languages:
       - name: Hindi
@@ -152,41 +101,11 @@ cv:
       - name: English
         summary: "Fluent"
 
-    Interests: false
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Interests:
+      - name: AI & Machine Learning
+        icon: fa-solid fa-robot
+        keywords: "Building Agents, GPU Optimization Kernels, Post-Training LLMs, Transformers"
 
-    Certificates: false
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects: false
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References: false
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Sports & Fitness
+        icon: fa-solid fa-volleyball
+        keywords: "Volleyball, Swimming, Running"
