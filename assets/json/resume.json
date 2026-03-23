@@ -65,15 +65,8 @@
       "startDate": "2024-01-01",
       "endDate": "2026-01-01",
       "score": "",
-      "courses": [
-        "Machine Learning",
-        "Natural Language Processing",
-        "Data-Driven Analysis"
-      ],
-      "highlights": [
-        "Focus on ML and NLP applications in climate science",
-        "Research in Building Agents and LLM Post-Training"
-      ]
+      "courses": ["Machine Learning", "Natural Language Processing", "Data-Driven Analysis"],
+      "highlights": ["Focus on ML and NLP applications in climate science", "Research in Building Agents and LLM Post-Training"]
     },
     {
       "institution": " M . L .V TEXTILE AND ENGINEERING College",
@@ -94,48 +87,25 @@
       "name": "Machine Learning",
       "level": "Advanced",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Deep Learning",
-        "Natural Language Processing",
-        "Large Language Models",
-        "Neural Networks",
-        "Model Training"
-      ]
+      "keywords": ["Deep Learning", "Natural Language Processing", "Large Language Models", "Neural Networks", "Model Training"]
     },
     {
       "name": "Data Science",
       "level": "Advanced",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Data Analysis",
-        "Data Visualization",
-        "Statistical Analysis",
-        "Python",
-        "Pandas"
-      ]
+      "keywords": ["Data Analysis", "Data Visualization", "Statistical Analysis", "Python", "Pandas"]
     },
     {
       "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "GPU Optimization",
-        "CUDA Kernels",
-        "Git",
-        "Linux"
-      ]
+      "keywords": ["Python", "GPU Optimization", "CUDA Kernels", "Git", "Linux"]
     },
     {
       "name": "Tools & Technologies",
       "level": "Intermediate",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "GIS",
-        "Excel",
-        "Jupyter Notebooks",
-        "VS Code"
-      ]
+      "keywords": ["GIS", "Excel", "Jupyter Notebooks", "VS Code"]
     }
   ],
   "languages": [
@@ -154,30 +124,17 @@
     {
       "name": "AI & Machine Learning",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Building Agents",
-        "GPU Optimization Kernels",
-        "Post-Training LLMs",
-        "Transformers"
-      ]
+      "keywords": ["Building Agents", "GPU Optimization Kernels", "Post-Training LLMs", "Transformers"]
     },
     {
       "name": "Sports & Fitness",
       "icon": "fa-solid fa-volleyball",
-      "keywords": [
-        "Volleyball",
-        "Swimming",
-        "Running"
-      ]
+      "keywords": ["Volleyball", "Swimming", "Running"]
     },
     {
       "name": "Problem Solving",
       "icon": "fa-solid fa-puzzle-piece",
-      "keywords": [
-        "NeetCode",
-        "TensorTonic",
-        "Mathematical Problems"
-      ]
+      "keywords": ["NeetCode", "TensorTonic", "Mathematical Problems"]
     }
   ],
   "references": [],
