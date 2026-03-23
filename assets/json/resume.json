@@ -13,7 +13,18 @@
       "countryCode": "IN",
       "region": "Karnataka"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "abhishekkumawat001",
+        "url": "https://linkedin.com/in/abhishekkumawat001"
+      },
+      {
+        "network": "GitHub",
+        "username": "abhishekkumawat001",
+        "url": "https://github.com/abhishekkumawat001"
+      }
+    ]
   },
   "work": [
     {
@@ -65,7 +76,7 @@
       ]
     },
     {
-      "institution": "Bachelor's Degree College",
+      "institution": " M . L .V TEXTILE AND ENGINEERING College",
       "location": "India",
       "area": "Mechanical Engineering",
       "studyType": "B.Tech",
