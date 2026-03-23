@@ -3,7 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/resume.pdf
 email: abhikumawat001@gmail.com
-orcid_userid: https://orcid.org/0009-0000-2817-924X
+orcid_userid: 0009-0000-2817-924X
 whatsapp_number: "+918003695559"
 github_username: abhishekkumawat001
 linkedin_username: abhishekkumawat001
+rss_icon: true
