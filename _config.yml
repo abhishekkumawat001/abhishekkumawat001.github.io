@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Science blogs # blog_name will be displayed in your blog page
-blog_description: related of research and development in the field of science # blog_description will be displayed in your blog page 
+blog_description: related of research and development in the field of science # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
