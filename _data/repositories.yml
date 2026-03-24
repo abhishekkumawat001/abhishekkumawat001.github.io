@@ -4,8 +4,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - abhishekkumawat001/abhishek-kumawat.github.io
-  - abhishekkumawat001/CVs_for_ball
   - abhishekkumawat001/TensorTonic-Solutions
-  - abhishekkumawat001/nlp_Assignments
+  - abhishekkumawat001/CVs_for_ball
   - abhishekkumawat001/maintenance.agentic.ai
+  - abhishekkumawat001/nlp_Assignments
+  - abhishekkumawat001/credit_card_111
+  - abhishekkumawat001/Gen_ai_assignments
+  - abhishekkumawat001/CH4_EM

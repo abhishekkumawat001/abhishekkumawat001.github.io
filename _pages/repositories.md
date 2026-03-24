@@ -2,22 +2,22 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: my repos and username is edit
+description: My coding profiles and GitHub repositories
 nav: true
 nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}
 
-### Leetcode stats
+### LeetCode Stats
 
-![Leetcode stats]()
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishekkumawat001?theme=dark&font=Karma&ext=heatmap)
 
-### GeekForGeeks
+### GeeksForGeeks Stats
 
-![GeekforGeeks stats]()
+![GeeksForGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kabhis9r84)
 
-## GitHub users
+## GitHub Users
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
