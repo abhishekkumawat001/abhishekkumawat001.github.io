@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## From Paper to Code
-
 A collection of influential research papers I've implemented from scratch to deeply understand the underlying concepts and architectures.
 
 ---
