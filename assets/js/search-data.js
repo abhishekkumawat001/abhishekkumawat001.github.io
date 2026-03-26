@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-the-spectrum-of-consciousness-trees-animals-humans-machines-amp-neural-agents",
+        
+          title: "The Spectrum of Consciousness: Trees, Animals, Humans, Machines &amp; Neural Agents",
+        
+        description: "From root networks to silicon minds — a philosophical inquiry into what it means to be aware. Spanning five kinds of being: trees, animals, humans, classical machines, and the modern edge of neural networks and agentic AI.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spectrum-of-consciousness/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
