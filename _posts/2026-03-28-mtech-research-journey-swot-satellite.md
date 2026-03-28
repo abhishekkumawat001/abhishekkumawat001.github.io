@@ -26,32 +26,32 @@ The core objective was ambitious: to integrate multi-source satellite data (**SW
 - Internal wave propagation and characteristics
 - Mesoscale phenomena (eddies) and their seasonal patterns
 - Ocean response to cyclones (Cyclone Shakti, Remal, and Dana)
-- Sub-mesoscale and mesoscale-large-scale interactions
+- Sub-mesoscale and mesoscale, large-scale interactions
 
 ---
 
 ## Phase 1: The Foundation — Literature and Data Discovery
 
-> **February 2026**
+> **January 2026**
 
 The journey began with extensive groundwork:
 
 - Surveying SAR images containing internal waves
 - Conducting literature reviews on internal wave physics
-- Identifying SWOT orbital tracks intersecting our region of interest (Andaman Sea)
+- Identifying SWOT orbital tracks intersecting our region of interest (peviously Andaman Sea, Now Bay of bengal)
 - **First Challenge**: Understanding the AVISO website's shapefile system to extract correct pass numbers
 
 ### The Learning Curve
 
-I quickly realized that oceanographic data science wasn't just about coding—it required understanding the **physics**, **satellite geometry**, and **data structures** that satellite agencies use. The SWOT-OpenToolkit became my mentor, teaching me how orbital passes work and how to navigate Earth's ocean swaths.
+I quickly realized that oceanographic data science wasn't just about coding, it required understanding the **physics**, **satellite geometry**, and **data structures** that satellite agencies use. The SWOT-OpenToolkit became my mentor, teaching me how orbital passes work and how to navigate Earth's ocean swaths for Swot.
 
 ---
 
 ## Phase 2: Data Pipeline Development — When Everything Broke
 
-> **March 2026**
+> **Feburay 2026**
 
-March brought the first real technical challenge. Downloading and processing Level 3 SWOT data required significant engineering:
+The first real technical challenge. Downloading and processing Level 3 SWOT data required significant engineering:
 
 ```python
 # Key achievements:
@@ -111,9 +111,8 @@ I realized that instead of forcing these datasets into one unified pipeline, I n
 
 This is where the research truly came alive. By analyzing three distinct cyclone events:
 
-- **Cyclone Shakti** (October 2024)
-- **Cyclone Remal** (earlier period)
-- **Cyclone Dana** (October 2024 - March 2025)
+- **Cyclone Remal** (year 2024)
+- **Cyclone Dana** (year 2024)
 
 I developed a methodology to extract 10-15 days of pre- and post-cyclone data, visualizing:
 
