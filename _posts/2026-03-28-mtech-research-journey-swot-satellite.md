@@ -81,11 +81,11 @@ March brought the first real technical challenge. Downloading and processing Lev
 
 Now came the real complexity: integrating data from three different sources:
 
-| Data Source | Description | Coverage |
-|-------------|-------------|----------|
-| **SWOT SSH** | Sea Surface Height | High-resolution, sparse |
-| **GHRSST SST** | Sea Surface Temperature | Global, daily |
-| **AVISO MSLA** | Mean Sea Level Anomaly | Synoptic scale, consistent |
+| Data Source    | Description             | Coverage                   |
+| -------------- | ----------------------- | -------------------------- |
+| **SWOT SSH**   | Sea Surface Height      | High-resolution, sparse    |
+| **GHRSST SST** | Sea Surface Temperature | Global, daily              |
+| **AVISO MSLA** | Mean Sea Level Anomaly  | Synoptic scale, consistent |
 
 ### Technical Hurdles
 
@@ -189,11 +189,11 @@ Compositing forward and backward passes revealed orbital geometry I initially mi
 
 ### 4. Documentation Saves Future-You
 
-The comprehensive README prevented many *"What was I thinking?"* moments. Good documentation made it easy to onboard the analysis concept to collaborators.
+The comprehensive README prevented many _"What was I thinking?"_ moments. Good documentation made it easy to onboard the analysis concept to collaborators.
 
 ### 5. Embrace Messy Research
 
-Not everything works on the first try. *"Fail fast, learn faster"* became my motto. Each dead-end revealed something about the data or my assumptions.
+Not everything works on the first try. _"Fail fast, learn faster"_ became my motto. Each dead-end revealed something about the data or my assumptions.
 
 ---
 
@@ -201,13 +201,13 @@ Not everything works on the first try. *"Fail fast, learn faster"* became my mot
 
 **Project Status**: 85% Complete
 
-| Component | Status |
-|-----------|--------|
-| Data pipeline | ✅ Robust and production-ready |
-| Internal wave analysis | ✅ Conceptualized, initial results promising |
-| Cyclone response study | ✅ Core analysis complete |
-| Advanced scale separation | ⏳ In progress |
-| Statistical significance testing | ⏳ Next phase |
+| Component                        | Status                                       |
+| -------------------------------- | -------------------------------------------- |
+| Data pipeline                    | ✅ Robust and production-ready               |
+| Internal wave analysis           | ✅ Conceptualized, initial results promising |
+| Cyclone response study           | ✅ Core analysis complete                    |
+| Advanced scale separation        | ⏳ In progress                               |
+| Statistical significance testing | ⏳ Next phase                                |
 
 ---
 
@@ -231,9 +231,10 @@ This M.Tech project has been far more than an academic exercise. It's been a mas
 
 ---
 
-*This journey continues, one orbit at a time.*
+_This journey continues, one orbit at a time._
 
 **Project Details:**
+
 - **Repository**: SWOT-OpenToolkit integration with multi-source oceanographic data
 - **Study Region**: Andaman Sea
 - **Key Satellites**: SWOT, Copernicus Marine, PODAAC
