@@ -109,7 +109,7 @@ I realized that instead of forcing these datasets into one unified pipeline, I n
 
 > **Late March 2026 — Present**
 
-This is where the research truly came alive. By analyzing three distinct cyclone events:
+This is where the research truly came alive. By analyzing Two distinct cyclone events:
 
 - **Cyclone Remal** (year 2024)
 - **Cyclone Dana** (year 2024)
@@ -235,6 +235,6 @@ _This journey continues, one orbit at a time._
 **Project Details:**
 
 - **Repository**: SWOT-OpenToolkit integration with multi-source oceanographic data
-- **Study Region**: Andaman Sea
+- **Study Region**: Previously Andaman Sea, Now ba of bengal
 - **Key Satellites**: SWOT, Copernicus Marine, PODAAC
 - **Methods**: Python, Jupyter, xarray, Visualization, Statistical Analysis
