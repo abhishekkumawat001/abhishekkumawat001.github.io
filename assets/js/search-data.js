@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-spectrum-of-consciousness-trees-animals-humans-machines-amp-neural-agents",
+        },{id: "post-navigating-the-waves-my-m-tech-research-journey-in-swot-satellite-data-analysis",
+        
+          title: "Navigating the Waves: My M.Tech Research Journey in SWOT Satellite Data Analysis",
+        
+        description: "A deep dive into oceanographic research, satellite data integration, and the lessons learned analyzing SWOT, GHRSST, and AVISO data to study ocean dynamics and cyclone responses.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mtech-research-journey-swot-satellite/";
+          
+        },
+      },{id: "post-the-spectrum-of-consciousness-trees-animals-humans-machines-amp-neural-agents",
         
           title: "The Spectrum of Consciousness: Trees, Animals, Humans, Machines &amp; Neural Agents",
         
